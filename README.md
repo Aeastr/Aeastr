@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my first major app Kyo, a school planner and organiser. I've previously experimented with SwiftUI for some prototype apps, but Kyo is my first full production project
+- 👀 I'm also building Amethyst, a collection of UI components for SwiftUI in iOS, iPadOS, macOS and visionOS
+- 👯 I’m looking to collaborate on projects looking for UI work, whether it's just design or converting design to actual production code
+
+- 💬 Feel free to ask me about design, SwiftUI and Spatial Computing
+  
 <!--
 **Aeastr/Aeastr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
