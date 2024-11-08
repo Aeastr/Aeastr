@@ -1,24 +1,25 @@
-### Hi there 👋
+## Hi there! 👋
 
-- 🔭 I’m currently working on my first major app Kyo, a school planner and organiser. I've previously experimented with SwiftUI for some prototype apps, but Kyo is my first full production project
-- 👀 I'm also building Amethyst, a collection of UI components for SwiftUI in iOS, iPadOS, macOS and visionOS
-- 👯 I’m looking to collaborate on projects looking for UI work, whether it's just design or converting design to actual production code
+I'm **Aether**, a Software Engineering student and Design Engineer with a passion for creating intuitive and beautiful user interfaces. I recently completed an internship with Apple's Maps Design Engineering team as part of the Class of 2024.
 
-- 💬 Feel free to ask me about design, SwiftUI and Spatial Computing
-  
-<!--
-**Aeastr/Aeastr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Current Projects
 
-Here are some ideas to get you started:
+- **Kyo**: My first major app—a school planner and organizer built with SwiftUI. Kyo helps students manage their academic life more efficiently.
+- **Amethyst**: A collection of UI components for SwiftUI on iOS and iPadOS built for Kyo 1.0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Open to Collaborate
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7PW1P1)
+I'm looking to collaborate on projects that need UI expertise, whether it's designing interfaces or turning designs into production-ready code. If you're working on something exciting, let's connect!
+
+### 💬 Ask Me About
+
+- UI/UX Design Principles
+- SwiftUI Development
+- Spatial Computing
+
+### 📫 How to Reach Me
+
+- [Twitter](https://x.com/AetherAurelia)
+- [Threads](https://www.threads.net/@aetheraurelia)
+- [Bluesky](https://bsky.app/profile/aethers.world)
+- [LinkedIn](www.linkedin.com/in/willjones24)
