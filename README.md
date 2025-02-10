@@ -9,9 +9,12 @@ I'm **Aether**, a Software Engineering student and Design Engineer with a passio
 
 - **Amethyst**: A collection of UI components for SwiftUI on iOS and iPadOS, forming the foundation for Kyo 1.0 and beyond.  
 
-- **FlavorKit**: A new system for colors in SwiftUI projects, featuring preset themes, and user created themes. Both with primary, secondary, tertiary, quaternary, and quinary colors all compatible with light and dark mode
+- **FlavorKit**: A new system for colors in SwiftUI projects, featuring preset themes and user-created themes. Both support primary, secondary, tertiary, quaternary, and quinary colors, all compatible with light and dark mode.
 
-- **Garnish**: A Swift package for dynamic color adjustments and contrast management, ensuring accessible and visually harmonious interfaces in light and dark themes. Available now as an [open-source project](https://github.com/Aeastr/Garnish)
+- **Garnish**: A Swift package for dynamic color adjustments and contrast management, ensuring accessible and visually harmonious interfaces in light and dark themes. Available now as an [open-source project](https://github.com/Aeastr/Garnish).
+
+- **CursorBounds**: A Swift package that provides precise information about the position and bounds of the text cursor (caret) in macOS applications.  
+  It leverages the macOS Accessibility API to retrieve the caret's location and bounding rectangle, with robust fallback mechanisms.
 
 ### 🤝 Open to Collaborate
 
@@ -28,4 +31,4 @@ I'm looking to collaborate on projects that need UI/SwiftUI expertise, whether i
 - [Twitter](https://x.com/AetherAurelia)  
 - [Threads](https://www.threads.net/@aetheraurelia)  
 - [Bluesky](https://bsky.app/profile/aethers.world)  
-- [LinkedIn](https://www.linkedin.com/in/willjones24)  
+- [LinkedIn](https://www.linkedin.com/in/willjones24)
