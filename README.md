@@ -7,14 +7,18 @@ I'm **Aether**, a Software Engineering student and Design Engineer with a passio
 - **Kyo**: My first major app—a school planner and organizer built with SwiftUI. Kyo empowers students to manage their academic life with ease and style.  
   - Currently working on **Kyo 2.0**, featuring exciting new functionalities and design enhancements.  
 
-- **Amethyst**: A collection of UI components for SwiftUI on iOS and iPadOS, forming the foundation for Kyo 1.0 and beyond.  
+- **Amethyst**: A collection of UI components for SwiftUI on iOS and iPadOS, forming the foundation for Kyo 1.0 and beyond.
+
+- **Avalanche**: A collection of newer UI components for SwiftUI on iOS and iPadOS, forming the foundation for Kyo 2.0 and beyond, exploring some ways to bring back some depth (WIP).  
 
 - **FlavorKit**: A new system for colors in SwiftUI projects, featuring preset themes and user-created themes. Both support primary, secondary, tertiary, quaternary, and quinary colors, all compatible with light and dark mode.
 
 - **Garnish**: A Swift package for dynamic color adjustments and contrast management, ensuring accessible and visually harmonious interfaces in light and dark themes. Available now as an [open-source project](https://github.com/Aeastr/Garnish).
 
 - **CursorBounds**: A Swift package that provides precise information about the position and bounds of the text cursor (caret) in macOS applications.  
-  It leverages the macOS Accessibility API to retrieve the caret's location and bounding rectangle, with robust fallback mechanisms.
+  It leverages the macOS Accessibility API to retrieve the caret's location and bounding rectangle, with robust fallback mechanisms. Available now as an [open-source project](https://github.com/Aeastr/CursorBounds).
+
+- **NotchMyProblem**: A Swift package that automatically positions buttons and UI elements around the iPhone's notch or Dynamic Island. It adapts to different device topologies, ensuring consistent and visually pleasing layouts. Available now as an [open-source project](https://github.com/Aeastr/NotchMyProblem).
 
 ### 🤝 Open to Collaborate
 
