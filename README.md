@@ -1,37 +1,35 @@
-## Hi there! 👋
+## 👋 yo, i'm aether. i build things. sometimes i share them.  
 
-I'm **Aether**, a Software Engineering student and Design Engineer with a passion for creating intuitive and visually stunning user experiences. I previously completed an internship with Apple's Maps Design Engineering team, where I worked on bridging design and engineering as part of the Class of 2024.
+i’m a design engineer. which basically means i don’t just make things look good—I make them **work**. sometimes, while doing that, i end up building little tools, libraries, or components that solve annoying problems. if they seem useful, i throw them out into the world.  
 
-### 🚀 Current Projects
+i don’t call myself a dev, but if i’m writing code and shipping it, does it even matter?  
 
-- **Kyo**: My first major app—a school planner and organizer built with SwiftUI. Kyo empowers students to manage their academic life with ease and style.  
-  - Currently working on **Kyo 2.0**, featuring exciting new functionalities and design enhancements.  
+i used to intern at apple (maps design engineering), where i learned how to push pixels and code in ways that actually make a difference. now i’m finishing my degree, open-sourcing some things, and working on projects that keep me sane.
 
-- **Amethyst**: A collection of UI components for SwiftUI on iOS and iPadOS, forming the foundation for Kyo 1.0 and beyond.
+### 📦 open source things i've thrown into the void:  
+- **[NotchMyProblem](#)** – wanted buttons that perfectly hug the iphone notch. positioning buttons around the iphone notch shouldn’t be that hard. so i made this.  
+- **[CursorBounds](#)** – needed precise text cursor positions on macos. accessibility api helped, but it’s weird. now it’s a package.
+- **[Garnish](#)** – ui colors should just *work*. this helps.  
+- **[SwiftUI AdaptiveImageGlyph](#)** – rich text editing in swiftui, bc genmojis exist now and the world is wild.
 
-- **Avalanche**: A collection of newer UI components for SwiftUI on iOS and iPadOS, forming the foundation for Kyo 2.0 and beyond, exploring some ways to bring back some depth (WIP).  
+### 🚀 other things i’ve built
+- **Kyo** – a school planner & organizer built with swiftui. students deserve good ui too. currently working on kyo 2.0, which is getting a full redesign & more depth.
+- **Amethyst & Avalanche** – collections of swiftui components. one was for kyo 1.0, the other is me experimenting with depth again. wip.
+- **FlavorKit** – a theming system for swiftui that actually makes sense. presets + user-created themes that just work.
 
-- **FlavorKit**: A new system for colors in SwiftUI projects, featuring preset themes and user-created themes. Both support primary, secondary, tertiary, quaternary, and quinary colors, all compatible with light and dark mode.
+more coming soon, probably.  
 
-- **Garnish**: A Swift package for dynamic color adjustments and contrast management, ensuring accessible and visually harmonious interfaces in light and dark themes. Available now as an [open-source project](https://github.com/Aeastr/Garnish).
+### 🛠 what i actually do:  
+- build **apps, interfaces, and tools** that make interacting with tech feel effortless  
+- obsess over **systems, not just visuals**  
+- occasionally regret every decision that led to a complicated problem but solve it anyway
+- sometimes occasionally build something so specific that only 3 people in the world will ever need it
 
-- **CursorBounds**: A Swift package that provides precise information about the position and bounds of the text cursor (caret) in macOS applications.  
-  It leverages the macOS Accessibility API to retrieve the caret's location and bounding rectangle, with robust fallback mechanisms. Available now as an [open-source project](https://github.com/Aeastr/CursorBounds).
+### 🤝 open to cool things
+if you’re building something interesting in swiftui, ui/ux, or spatial computing, i’m down to chat. otherwise, i’ll be here, making things work.
 
-- **NotchMyProblem**: A Swift package that automatically positions buttons and UI elements around the iPhone's notch or Dynamic Island. It adapts to different device topologies, ensuring consistent and visually pleasing layouts. Available now as an [open-source project](https://github.com/Aeastr/NotchMyProblem).
-
-### 🤝 Open to Collaborate
-
-I'm looking to collaborate on projects that need UI/SwiftUI expertise, whether it's designing interfaces or turning designs into production-ready code. If you're working on something exciting, let's connect!
-
-### 💬 Ask Me About
-
-- UI/UX Design Principles  
-- SwiftUI Development  
-- Spatial Computing  
-
-### 📫 How to Reach Me
-
+### 📍 where to find me:  
+- here, obviously.  
 - [Twitter](https://x.com/AetherAurelia)  
 - [Threads](https://www.threads.net/@aetheraurelia)  
 - [Bluesky](https://bsky.app/profile/aethers.world)  
