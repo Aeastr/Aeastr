@@ -10,7 +10,7 @@ i used to intern at apple (maps design engineering), where i learned how to push
 - **[NotchMyProblem](#)** – wanted buttons that perfectly hug the iphone notch. positioning buttons around the iphone notch shouldn’t be that hard. so i made this.  
 - **[CursorBounds](#)** – needed precise text cursor positions on macos. accessibility api helped, but it’s weird. now it’s a package.
 - **[Garnish](#)** – ui colors should just *work*. this helps.  
-- **[SwiftUI AdaptiveImageGlyph](#)** – rich text editing in swiftui, bc genmojis exist now and the world is wild.
+- **[SwiftUI AdaptiveImageGlyph](#)** – example for rich text editing in swiftui, bc genmojis exist now. (more of an example, proper package later)
 
 ### 🚀 other things i’ve built
 - **Kyo** – a school planner & organizer built with swiftui. students deserve good ui too. currently working on kyo 2.0, which is getting a full redesign & more depth.
