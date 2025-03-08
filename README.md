@@ -9,7 +9,8 @@ i used to intern at apple (maps design engineering), where i learned how to push
 ### 📦 open source things i've thrown into the void:  
 - **[NotchMyProblem](#)** – wanted buttons that perfectly hug the iphone notch. positioning buttons around the iphone notch shouldn’t be that hard. so i made this.  
 - **[CursorBounds](#)** – needed precise text cursor positions on macos. accessibility api helped, but it’s weird. now it’s a package.
-- **[Garnish](#)** – ui colors should just *work*. this helps.  
+- **[Garnish](#)** – ui colors should just *work*. this helps.
+- **[GlowGetter](#)** – colors being brighter than the rest of the screen seemed cool for some UI ideas, this lets you do that, or whatever idea you have
 - **[SwiftUI AdaptiveImageGlyph](#)** – example for rich text editing in swiftui, bc genmojis exist now. (more of an example, proper package later)
 
 ### 🚀 other things i’ve built
