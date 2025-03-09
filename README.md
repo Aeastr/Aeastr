@@ -17,39 +17,38 @@
   wanted to solve annoying problems, so i built these. if they seem useful, feel free to check them out.
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./assets/notchMyProblem-icon.png" alt="NotchMyProblem Icon" width="120" />
-        <h3><a href="#">NotchMyProblem</a></h3>
-        <p>wanted buttons that perfectly hug the iphone notch. positioning buttons around the iphone notch shouldn’t be that hard. so i made this.</p>
-      </td>
-      <td align="center">
-        <img src="./assets/cursorBounds-icon.png" alt="CursorBounds Icon" width="120" />
-        <h3><a href="#">CursorBounds</a></h3>
-        <p>needed precise text cursor positions on macos. accessibility api helped, but it’s weird. now it’s a package.</p>
-      </td>
-      <td align="center">
-        <img src="./assets/garnish-icon.png" alt="Garnish Icon" width="120" />
-        <h3><a href="#">Garnish</a></h3>
-        <p>ui colors should just <em>work</em>. this helps.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="./assets/glowGetter-icon.png" alt="GlowGetter Icon" width="120" />
-        <h3><a href="#">GlowGetter</a></h3>
-        <p>colors being brighter than the rest of the screen seemed cool for some UI ideas, this lets you do that, or whatever idea you have.</p>
-      </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/100" alt="SwiftUI AdaptiveImageGlyph Icon" width="120" />
-        <h3><a href="#">SwiftUI AdaptiveImageGlyph</a></h3>
-        <p>example for rich text editing in swiftui, bc genmojis exist now. (more of an example, proper package later.)</p>
-      </td>
-    </tr>
-  </table>
+
+<div align="left">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <div style="text-align: center; width: 200px;">
+      <img src="./assets/notchMyProblem-icon.png" alt="NotchMyProblem Icon" width="80" />
+      <h3><a href="#">NotchMyProblem</a></h3>
+      <p>wanted buttons that perfectly hug the iphone notch. positioning buttons around the iphone notch shouldn’t be that hard. so i made this.</p>
+    </div>
+    <div style="text-align: center; width: 200px;">
+      <img src="./assets/cursorBounds-icon.png" alt="CursorBounds Icon" width="80" />
+      <h3><a href="#">CursorBounds</a></h3>
+      <p>needed precise text cursor positions on macos. accessibility api helped, but it’s weird. now it’s a package.</p>
+    </div>
+    <div style="text-align: center; width: 200px;">
+      <img src="./assets/garnish-icon.png" alt="Garnish Icon" width="80" />
+      <h3><a href="#">Garnish</a></h3>
+      <p>ui colors should just <em>work</em>. this helps.</p>
+    </div>
+    <div style="text-align: center; width: 200px;">
+      <img src="./assets/glowGetter-icon.png" alt="GlowGetter Icon" width="80" />
+      <h3><a href="#">GlowGetter</a></h3>
+      <p>colors being brighter than the rest of the screen seemed cool for some ui ideas. this lets you do that, or whatever idea you have.</p>
+    </div>
+    <div style="text-align: center; width: 200px;">
+      <img src="./assets/swiftui-adaptive-image-glyph-icon.png" alt="SwiftUI AdaptiveImageGlyph Icon" width="80" />
+      <h3><a href="#">SwiftUI AdaptiveImageGlyph</a></h3>
+      <p>example for rich text editing in swiftui, bc genmojis exist now. (more of an example, proper package later.)</p>
+    </div>
+  </div>
 </div>
+
+
 
 <hr />
 
