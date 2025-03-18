@@ -9,8 +9,8 @@ i used to intern at apple (maps design engineering), where i learned how to push
 ### 📦 open source things i've thrown into the void:  
 - <img src="assets/notchMyProblem-icon.png" alt="NotchMyProblem Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[NotchMyProblem](#)** – wanted buttons that perfectly hug the iphone notch. Positioning buttons around the iphone notch shouldn’t be that hard, so i made this.
 - <img src="assets/cursorBounds-icon.png" alt="CursorBounds Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[CursorBounds](#)** – needed precise text cursor positions on macOS. Accessibility API helped, but it’s weird. now it’s a package.
-- <img src="assets/garnish-icon.png" alt="Garnish Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[Garnish](#)** – UI colors should just *work*. This helps.
-- <img src="assets/glowGetter-icon.png" alt="GlowGetter Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[GlowGetter](#)** – Colors being brighter than the rest of the screen seemed cool for some UI ideas, this lets you do that, or whatever idea you have.
+- <img src="assets/garnish-icon.png" alt="Garnish Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[Garnish](#)** – UI colors should just *work*. this helps.
+- <img src="assets/glowGetter-icon.png" alt="GlowGetter Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[GlowGetter](#)** – colors being brighter than the rest of the screen seemed cool for some UI ideas, this lets you do that, or whatever idea you have.
 
 
 ### 🚀 other things i’ve built
