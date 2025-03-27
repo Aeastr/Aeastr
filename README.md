@@ -6,6 +6,8 @@ i don’t call myself a dev, but if i’m writing code and shipping it, does it 
 
 i used to intern at apple (maps design engineering), where i learned how to push pixels and code in ways that actually make a difference. now i’m finishing my degree, open-sourcing some things, and working on projects that keep me sane.
 
+swift student challenge '25 winner
+
 ### 📦 open source things i've thrown into the void:  
 - <img src="assets/notchMyProblem-icon.png" alt="NotchMyProblem Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[NotchMyProblem](#)** – wanted buttons that perfectly hug the iphone notch. Positioning buttons around the iphone notch shouldn’t be that hard, so i made this.
 - <img src="assets/cursorBounds-icon.png" alt="CursorBounds Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[CursorBounds](#)** – needed precise text cursor positions on macOS. Accessibility API helped, but it’s weird. now it’s a package.
