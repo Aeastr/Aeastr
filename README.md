@@ -9,7 +9,7 @@ i used to intern at apple (maps design engineering), where i learned how to push
 swift student challenge '25 winner
 
 ### 📦 open source things i've thrown into the void:  
-- <img src="assets/portal-icon.png" alt="Portal Icon" width="22" style="vertical-align:middle; margin-right:5px;"> Portal – seamless element transitions across root, sheets, and navigation pushes in SwiftUI. flexible af. portals, basically.
+- <img src="assets/portal-icon.png" alt="Portal Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[Portal](https://github.com/Aeastr/Portal)** – seamless element transitions across root, sheets, and navigation pushes in SwiftUI. flexible af. portals, basically.
 - <img src="assets/notchMyProblem-icon.png" alt="NotchMyProblem Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[NotchMyProblem](https://github.com/Aeastr/NotchMyProblem)** – wanted buttons that perfectly hug the iphone notch. Positioning buttons around the iphone notch shouldn’t be that hard, so i made this.
 - <img src="assets/cursorBounds-icon.png" alt="CursorBounds Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[CursorBounds](https://github.com/Aeastr/CursorBounds)** – needed precise text cursor positions on macOS. Accessibility API helped, but it’s weird. now it’s a package.
 - <img src="assets/garnish-icon.png" alt="Garnish Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[Garnish](https://github.com/Aeastr/Garnish)** – UI colors should just *work*. this helps.
