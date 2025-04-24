@@ -9,11 +9,19 @@ i used to intern at apple (maps design engineering), where i learned how to push
 swift student challenge '25 winner
 
 ### 📦 open source things i've thrown into the void:  
-- <img src="assets/portal-icon.png" alt="Portal Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[Portal](https://github.com/Aeastr/Portal)** – seamless element transitions across root, sheets, and navigation pushes in SwiftUI. flexible af. portals, basically.
-- <img src="assets/notchMyProblem-icon.png" alt="NotchMyProblem Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[NotchMyProblem](https://github.com/Aeastr/NotchMyProblem)** – wanted buttons that perfectly hug the iphone notch. Positioning buttons around the iphone notch shouldn’t be that hard, so i made this.
-- <img src="assets/cursorBounds-icon.png" alt="CursorBounds Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[CursorBounds](https://github.com/Aeastr/CursorBounds)** – needed precise text cursor positions on macOS. Accessibility API helped, but it’s weird. now it’s a package.
-- <img src="assets/garnish-icon.png" alt="Garnish Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[Garnish](https://github.com/Aeastr/Garnish)** – UI colors should just *work*. this helps.
-- <img src="assets/glowGetter-icon.png" alt="GlowGetter Icon" width="22" style="vertical-align:middle; margin-right:5px;"> **[GlowGetter](https://github.com/Aeastr/GlowGetter)** – colors being brighter than the rest of the screen seemed cool for some UI ideas, this lets you do that, or whatever idea you have.
+- <img src="assets/portal-icon.png" alt="Portal Icon" width="24" style="vertical-align:top; margin-right:5px;"> **[Portal](https://github.com/Aeastr/Portal)** – seamless element transitions across root, sheets, and navigation pushes in SwiftUI. flexible af. portals, basically.
+
+- <img src="assets/glowGetter-icon.png" alt="GlowGetter Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[GlowGetter](https://github.com/Aeastr/GlowGetter)** – colors being brighter than the rest of the screen seemed cool for some UI ideas, this lets you do that, or whatever idea you have.
+  
+- <img src="https://github.com/Aeastr/GlyphMeThat/blob/main/assets/icon.png" alt="GlyphMeThat Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[GlyphMeThat](https://github.com/Aeastr/GlyphMeThat)** – genmojis are kinda fun, they're backed by NSAdaptiveImageGylph, which wsan't exposed for SwiftUI fields + we couldn't jut get them as images, this resolves that
+  
+- <img src="assets/notchMyProblem-icon.png" alt="NotchMyProblem Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[NotchMyProblem](https://github.com/Aeastr/NotchMyProblem)** – wanted buttons that perfectly hug the iphone notch. Positioning buttons around the iphone notch shouldn’t be that hard, so i made this.
+  
+- <img src="https://github.com/Aeastr/LogOutLoud/blob/main/assets/icon.png" alt="LogOutLoud Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[LogOutLoud](https://github.com/Aeastr/LogOutLoud)** – just what i use for logs in my apps, centralized and less boilerplate
+  
+- <img src="assets/cursorBounds-icon.png" alt="CursorBounds Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[CursorBounds](https://github.com/Aeastr/CursorBounds)** – needed precise text cursor positions on macOS. Accessibility API helped, but it’s weird. now it’s a package.
+  
+- <img src="assets/garnish-icon.png" alt="Garnish Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[Garnish](https://github.com/Aeastr/Garnish)** – UI colors should just *work*. this helps.
 
 
 ### 🚀 other things i’ve built
