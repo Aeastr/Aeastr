@@ -13,7 +13,7 @@ swift student challenge '25 winner
 
 - <img src="assets/glowGetter-icon.png" alt="GlowGetter Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[GlowGetter](https://github.com/Aeastr/GlowGetter)** – colors being brighter than the rest of the screen seemed cool for some UI ideas, this lets you do that, or whatever idea you have.
   
-- <img src="https://github.com/Aeastr/GlyphMeThat/blob/main/assets/icon.png" alt="GlyphMeThat Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[GlyphMeThat](https://github.com/Aeastr/GlyphMeThat)** – genmojis are kinda fun, they're backed by NSAdaptiveImageGylph, which wsan't exposed for SwiftUI fields + we couldn't jut get them as images, this resolves that
+- <img src="https://github.com/Aeastr/GlyphMeThat/blob/main/assets/icon.png" alt="GlyphMeThat Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[GlyphMeThat](https://github.com/Aeastr/GlyphMeThat)** – genmojis are kinda fun, they're backed by NSAdaptiveImageGylph, which wsan't exposed for SwiftUI fields + we couldn't just get them as images, this resolves that
   
 - <img src="assets/notchMyProblem-icon.png" alt="NotchMyProblem Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[NotchMyProblem](https://github.com/Aeastr/NotchMyProblem)** – wanted buttons that perfectly hug the iphone notch. Positioning buttons around the iphone notch shouldn’t be that hard, so i made this.
   
