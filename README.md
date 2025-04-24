@@ -11,7 +11,7 @@ swift student challenge '25 winner
 ### 📦 open source things i've thrown into the void:  
 - <img src="assets/portal-icon.png" alt="Portal Icon" width="24" style="vertical-align:top; margin-right:5px;"> **[Portal](https://github.com/Aeastr/Portal)** – seamless element transitions across root, sheets, and navigation pushes in SwiftUI. flexible af. portals, basically.
 
-- <img src="assets/glowGetter-icon.png" alt="GlowGetter Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[GlowGetter](https://github.com/Aeastr/GlowGetter)** – colors being brighter than the rest of the screen seemed cool for some UI ideas, this lets you do that, or whatever idea you have.
+- <img src="https://github.com/Aeastr/GlowGetter/blob/main/assets/icon.png" alt="GlowGetter Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[GlowGetter](https://github.com/Aeastr/GlowGetter)** – colors being brighter than the rest of the screen seemed cool for some UI ideas, this lets you do that, or whatever idea you have.
   
 - <img src="https://github.com/Aeastr/GlyphMeThat/blob/main/assets/icon.png" alt="GlyphMeThat Icon" width="24" style="vertical-align:middle; margin-right:5px;"> **[GlyphMeThat](https://github.com/Aeastr/GlyphMeThat)** – genmojis are kinda fun, they're backed by NSAdaptiveImageGylph, which wsan't exposed for SwiftUI fields + we couldn't just get them as images, this resolves that
   
