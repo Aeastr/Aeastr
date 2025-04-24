@@ -26,8 +26,7 @@ swift student challenge '25 winner
 
 ### 🚀 other things i’ve built
 - **Kyo** – a school planner & organizer built with swiftui. students deserve good ui too. currently working on kyo 2.0, which is getting a full redesign & more depth.
-- **Amethyst & Avalanche** – collections of swiftui components. one was for kyo 1.0, the other is me experimenting with depth again. wip.
-- **FlavorKit** – a theming system for swiftui that actually makes sense. presets + user-created themes that just work.
+- **Deco** - a wallpaper studio for crafting unique lock screens with photos, gradients, stripes, and stickers. started as a swift student challenge project, now on the app store. won for '25.
 
 more coming soon, probably.  
 
