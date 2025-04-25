@@ -45,3 +45,7 @@ if you’re building something interesting in swiftui, ui/ux, or spatial computi
 - [Threads](https://www.threads.net/@aetheraurelia)  
 - [Bluesky](https://bsky.app/profile/aethers.world)  
 - [LinkedIn](https://www.linkedin.com/in/willjones24)
+
+👾 built in public, shipped for fun, by aether
+
+_see you in the void._
