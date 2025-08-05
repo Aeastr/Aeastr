@@ -6,7 +6,9 @@ i'm a design engineer—which basically means i don't just make things look good
 
 ex-apple maps intern, swift student challenge '25 winner. finishing my degree, open-sourcing some things, working on projects that keep me sane.
 
-[twitter](https://x.com/AetherAurelia) • [threads](https://www.threads.net/@aetheraurelia) • [bluesky](https://bsky.app/profile/aethers.world) • [linkedin](https://www.linkedin.com/in/willjones24)
+[twitter](https://x.com/AetherAurelia) • [threads](https://www.threads.net/@aetheraurelia) • [bluesky](https://bsky.app/profile/aethers.world) • [linkedin](https://www.linkedin.com/in/willjones24) • [discord server](https://discord.gg/6NHhAvwbXV)
+
+
 
 ---
 
