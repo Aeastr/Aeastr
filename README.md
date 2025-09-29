@@ -12,10 +12,7 @@ ex-apple maps intern, swift student challenge '25 winner. finishing my degree, o
 
 ---
 
-## 📦 open source things i've thrown into the void
-
-<details>
-<summary><strong>view all projects (9 total)</strong></summary>
+## 📦 open source things
 
 | | project | what it does |
 |---|---------|--------------|
@@ -29,8 +26,6 @@ ex-apple maps intern, swift student challenge '25 winner. finishing my degree, o
 | <img src="https://github.com/Aeastr/LogOutLoud/blob/main/assets/icon.png" alt="LogOutLoud" width="45"> | **[LogOutLoud](https://github.com/Aeastr/LogOutLoud)** | just what i use for logs in my apps. centralized and less boilerplate. |
 | <img src="https://github.com/Aeastr/GlyphMeThat/blob/main/assets/icon.png" alt="GlyphMeThat" width="45"> | **[GlyphMeThat](https://github.com/Aeastr/GlyphMeThat)** | genmojis are kinda fun, they're backed by NSAdaptiveImageGlyph. wasn't exposed for SwiftUI + couldn't get them as images. this fixes that. |
 | <img src="https://github.com/Aeastr/CursorBounds/blob/main/assets/icon.png" alt="CursorBounds" width="45"> | **[CursorBounds](https://github.com/Aeastr/CursorBounds)** | needed precise text cursor positions on macOS. accessibility API helped, but it's weird. now it's a package. |
-
-</details>
 
 ---
 
