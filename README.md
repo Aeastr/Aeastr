@@ -12,18 +12,47 @@ ex-apple maps intern, swift student challenge '25 winner. finishing my degree, o
 
 ---
 
-## 📦 open source things
+## 🎨 **UI & Interaction**
 
-| | project | what it does |
-|---|---------|--------------|
-| <img src="https://github.com/Aeastr/Portal/blob/main/assets/icon.png" alt="Portal" width="45"> | **[Portal](https://github.com/Aeastr/Portal)** | seamless element transitions across root, sheets, and navigation in SwiftUI. |
-| <img src="https://github.com/Aeastr/Garnish/blob/main/assets/icon.png" alt="Garnish" width="45"> | **[Garnish](https://github.com/Aeastr/Garnish)** | intelligent color utilities for accessibility, contrast optimization, and visual harmony. |
-| <img src="https://github.com/Aeastr/NotchMyProblem/blob/main/assets/icon.png" alt="NotchMyProblem" width="45"> | **[NotchMyProblem](https://github.com/Aeastr/NotchMyProblem)** | position UI elements around iPhone notch and dynamic island. |
+Packages focused on visual design, layout, and SwiftUI behavior.
+
+|                                                                                                                 | project                                                        | what it does                                                                                  |
+| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/Aeastr/Portal/blob/main/assets/icon.png" alt="Portal" width="45">                  | **[Portal](https://github.com/Aeastr/Portal)**                 | seamless element transitions across root, sheets, and navigation in SwiftUI.                  |
+| <img src="https://github.com/Aeastr/Garnish/blob/main/assets/icon.png" alt="Garnish" width="45">                | **[Garnish](https://github.com/Aeastr/Garnish)**               | intelligent color utilities for accessibility, contrast optimization, and visual harmony.     |
+| <img src="https://github.com/Aeastr/NotchMyProblem/blob/main/assets/icon.png" alt="NotchMyProblem" width="45">  | **[NotchMyProblem](https://github.com/Aeastr/NotchMyProblem)** | position UI elements around iPhone notch and dynamic island.                                  |
 | <img src="https://github.com/Aeastr/UniversalGlass/blob/main/assets/icon.png" alt="Universal Glass" width="45"> | **[UniversalGlass](https://github.com/Aeastr/UniversalGlass)** | iOS 26 glass APIs on earlier deployments. shims for iOS 18+, defers to native when available. |
+
+---
+
+## 🧩 **System & Framework Utilities**
+
+Packages that extend or refine platform-level behavior and APIs.
+
+|                                                                                                            | project                                                    | what it does                                                            |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------- |
 | <img src="https://github.com/Aeastr/CursorBounds/blob/main/assets/icon.png" alt="CursorBounds" width="45"> | **[CursorBounds](https://github.com/Aeastr/CursorBounds)** | precise text cursor positioning and browser context detection on macOS. |
+
+---
+
+## 🧪 **Experimental & Add-ons**
+
+Creative or exploratory ideas — use with care (private APIs, unconventional behavior).
+
+|                                                                                                              | project                                                      | what it does                                             |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
 | <img src="https://github.com/Aeastr/MenuWithAView/blob/main/assets/icon.png" alt="MenuWithAView" width="45"> | **[MenuWithAView](https://github.com/Aeastr/MenuWithAView)** | add accessory views to context menus. uses private APIs. |
-| <img src="https://github.com/Aeastr/RenderMeThis/blob/main/assets/icon.png" alt="RenderMeThis" width="45"> | **[RenderMeThis](https://github.com/Aeastr/RenderMeThis)** | optimize view rendering and computation performance. |
-| <img src="https://github.com/Aeastr/LogOutLoud/blob/main/assets/icon.png" alt="LogOutLoud" width="45"> | **[LogOutLoud](https://github.com/Aeastr/LogOutLoud)** | lightweight logging wrapper for Apple's unified logging with structured metadata. |
+
+---
+
+## ⚙️ **Development & Infrastructure**
+
+Internal tooling, performance helpers, and developer experience utilities.
+
+|                                                                                                            | project                                                    | what it does                                                                      |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| <img src="https://github.com/Aeastr/RenderMeThis/blob/main/assets/icon.png" alt="RenderMeThis" width="45"> | **[RenderMeThis](https://github.com/Aeastr/RenderMeThis)** | optimize view rendering and computation performance.                              |
+| <img src="https://github.com/Aeastr/LogOutLoud/blob/main/assets/icon.png" alt="LogOutLoud" width="45">     | **[LogOutLoud](https://github.com/Aeastr/LogOutLoud)**     | lightweight logging wrapper for Apple's unified logging with structured metadata. |
 
 ---
 
