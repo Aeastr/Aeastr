@@ -16,16 +16,15 @@ ex-apple maps intern, swift student challenge '25 winner. finishing my degree, o
 
 | | project | what it does |
 |---|---------|--------------|
-| <img src="https://github.com/Aeastr/Portal/blob/main/assets/icon.png" alt="Portal" width="45"> | **[Portal](https://github.com/Aeastr/Portal)** | seamless element transitions across root, sheets, and navigation pushes in SwiftUI. flexible af. portals, basically. |
-| <img src="https://github.com/Aeastr/Garnish/blob/main/assets/icon.png" alt="Garnish" width="45"> | **[Garnish](https://github.com/Aeastr/Garnish)** | UI colors should just *work*. this helps. |
-| <img src="https://github.com/Aeastr/UniversalGlass/blob/main/assets/icon.png" alt="Universal Glass" width="45"> | **[UniversalGlass](https://github.com/Aeastr/UniversalGlass)** | desc pending. |
-| <img src="https://github.com/Aeastr/NotchMyProblem/blob/main/assets/icon.png" alt="NotchMyProblem" width="45"> | **[NotchMyProblem](https://github.com/Aeastr/NotchMyProblem)** | wanted buttons that perfectly hug the iphone cutout. positioning shouldn't be that hard, so i made this. |
-| <img src="https://github.com/Aeastr/RenderMeThis/blob/main/assets/icon.png" alt="RenderMeThis" width="45"> | **[RenderMeThis](https://github.com/Aeastr/RenderMeThis)** | useful for optimizing view rendering/computation. needed it during deco development, hope others find use. |
-| <img src="https://github.com/Aeastr/MenuWithAView/blob/main/assets/icon.png" alt="MenuWithAView" width="45"> | **[MenuWithAView](https://github.com/Aeastr/MenuWithAView)** | imessage has a really cool menu accessory, this lets you add your own to any context menu. use with **care**. |
-| <img src="https://github.com/Aeastr/GlowGetter/blob/main/assets/icon.png" alt="GlowGetter" width="45"> | **[GlowGetter](https://github.com/Aeastr/GlowGetter)** | elements being brighter than the rest of the screen seemed cool for some UI ideas. this lets you do that. |
-| <img src="https://github.com/Aeastr/LogOutLoud/blob/main/assets/icon.png" alt="LogOutLoud" width="45"> | **[LogOutLoud](https://github.com/Aeastr/LogOutLoud)** | just what i use for logs in my apps. centralized and less boilerplate. |
-| <img src="https://github.com/Aeastr/GlyphMeThat/blob/main/assets/icon.png" alt="GlyphMeThat" width="45"> | **[GlyphMeThat](https://github.com/Aeastr/GlyphMeThat)** | genmojis are kinda fun, they're backed by NSAdaptiveImageGlyph. wasn't exposed for SwiftUI + couldn't get them as images. this fixes that. |
-| <img src="https://github.com/Aeastr/CursorBounds/blob/main/assets/icon.png" alt="CursorBounds" width="45"> | **[CursorBounds](https://github.com/Aeastr/CursorBounds)** | needed precise text cursor positions on macOS. accessibility API helped, but it's weird. now it's a package. |
+| <img src="https://github.com/Aeastr/Portal/blob/main/assets/icon.png" alt="Portal" width="45"> | **[Portal](https://github.com/Aeastr/Portal)** | seamless element transitions across root, sheets, and navigation in SwiftUI. |
+| <img src="https://github.com/Aeastr/Garnish/blob/main/assets/icon.png" alt="Garnish" width="45"> | **[Garnish](https://github.com/Aeastr/Garnish)** | intelligent color utilities for accessibility, contrast optimization, and visual harmony. |
+| <img src="https://github.com/Aeastr/NotchMyProblem/blob/main/assets/icon.png" alt="NotchMyProblem" width="45"> | **[NotchMyProblem](https://github.com/Aeastr/NotchMyProblem)** | position UI elements around iPhone notch and dynamic island. |
+| <img src="https://github.com/Aeastr/UniversalGlass/blob/main/assets/icon.png" alt="Universal Glass" width="45"> | **[UniversalGlass](https://github.com/Aeastr/UniversalGlass)** | iOS 26 glass APIs on earlier deployments. shims for iOS 18+, defers to native when available. |
+| <img src="https://github.com/Aeastr/CursorBounds/blob/main/assets/icon.png" alt="CursorBounds" width="45"> | **[CursorBounds](https://github.com/Aeastr/CursorBounds)** | precise text cursor positioning and browser context detection on macOS. |
+| <img src="https://github.com/Aeastr/GlyphMeThat/blob/main/assets/icon.png" alt="GlyphMeThat" width="45"> | **[GlyphMeThat](https://github.com/Aeastr/GlyphMeThat)** | access genmojis in SwiftUI and extract them as images. |
+| <img src="https://github.com/Aeastr/MenuWithAView/blob/main/assets/icon.png" alt="MenuWithAView" width="45"> | **[MenuWithAView](https://github.com/Aeastr/MenuWithAView)** | add accessory views to context menus. uses private APIs. |
+| <img src="https://github.com/Aeastr/RenderMeThis/blob/main/assets/icon.png" alt="RenderMeThis" width="45"> | **[RenderMeThis](https://github.com/Aeastr/RenderMeThis)** | optimize view rendering and computation performance. |
+| <img src="https://github.com/Aeastr/LogOutLoud/blob/main/assets/icon.png" alt="LogOutLoud" width="45"> | **[LogOutLoud](https://github.com/Aeastr/LogOutLoud)** | lightweight logging wrapper for Apple's unified logging with structured metadata. |
 
 ---
 
