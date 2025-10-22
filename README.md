@@ -51,7 +51,7 @@ Internal tooling, performance helpers, and developer experience utilities.
 
 |                                                                                                            | project                                                    | what it does                                                                      |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| <img src="https://github.com/Aeastr/Loupe/blob/main/assets/icon.png" alt="RenderMeThis" width="45"> | **[Loupe](https://github.com/Aeastr/Loupe)** | optimize view rendering and computation performance.                              |
+| <img src="https://github.com/Aeastr/Loupe/blob/main/assets/icon.png" alt="RenderMeThis" width="45"> | **[Loupe](https://github.com/Aeastr/Loupe)** | SwiftUI debugging toolkit for visualizing renders, layouts, and measurements.                              |
 | <img src="https://github.com/Aeastr/LogOutLoud/blob/main/assets/icon.png" alt="LogOutLoud" width="45">     | **[LogOutLoud](https://github.com/Aeastr/LogOutLoud)**     | advanced logging wrapper for Apple's unified logging with async, structured metadata, runtime details and more. |
 
 ---
