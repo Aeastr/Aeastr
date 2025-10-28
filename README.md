@@ -31,6 +31,7 @@ Packages that extend or refine platform-level behavior and APIs.
 
 |                                                                                                            | project                                                    | what it does                                                            |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <img src="https://github.com/Aeastr/Conditionals/blob/main/assets/icon.png" alt="Conditionals" width="45"> | **[Conditionals](https://github.com/Aeastr/Conditionals)** | clean conditional modifier application based on OS availability and runtime conditions. |
 | <img src="https://github.com/Aeastr/CursorBounds/blob/main/assets/icon.png" alt="CursorBounds" width="45"> | **[CursorBounds](https://github.com/Aeastr/CursorBounds)** | precise text cursor positioning and browser context detection on macOS. |
 
 ---
