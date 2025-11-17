@@ -34,6 +34,7 @@ Packages that extend or refine platform-level behavior and APIs.
 | <img src="https://github.com/Aeastr/Conditionals/blob/main/Resources/icon.png" alt="Conditionals" width="45"> | **[Conditionals](https://github.com/Aeastr/Conditionals)** | clean conditional modifier application based on OS availability and runtime conditions. |
 | <img src="https://github.com/Aeastr/CursorBounds/blob/main/assets/icon.png" alt="CursorBounds" width="45"> | **[CursorBounds](https://github.com/Aeastr/CursorBounds)** | precise text cursor positioning and browser context detection on macOS. |
 | <img src="https://github.com/Aeastr/AdaptiveDimensions/blob/main/Resources/icon/icon.png" alt="AdaptiveDimensions" width="45"> | **[AdaptiveDimensions](https://github.com/Aeastr/AdaptiveDimensions)** | SwiftUI modifiers that adapt layout dimensions to system text size settings |
+| <img src="https://github.com/Aeastr/SettingsKit/blob/main/Resources/icon/icon.png" alt="SettingsKit" width="45"> | **[SettingsKit](https://github.com/Aeastr/SettingsKit)** | a declarative SwiftUI package for building settings interfaces with navigation, search, and customizable styling |
 
 
 
