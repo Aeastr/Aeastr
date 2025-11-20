@@ -1,86 +1,10 @@
-# 👋 yo, i'm aether
+# aether
 
-i build things. sometimes i share them.
+design engineer. building swiftui tools.
 
-i'm a design engineer—which basically means i don't just make things look good, i make them **work**. sometimes while doing that, i end up building little tools that solve annoying problems. if they seem useful, i throw them out into the world.
+previously: apple maps, patina systems. currently contracting at pool.
+swift student challenge '25 winner.
 
-ex-apple maps intern, swift student challenge '25 winner. finishing my degree, open-sourcing some things, working on projects that keep me sane.
+also built: kyo (school planner), deco (wallpaper studio, on app store)
 
-[twitter](https://x.com/AetherAurelia) • [threads](https://www.threads.net/@aetheraurelia) • [bluesky](https://bsky.app/profile/aethers.world) • [linkedin](https://www.linkedin.com/in/willjones24) • [discord server](https://discord.gg/6NHhAvwbXV)
-
-
-
----
-
-## 🎨 **UI & Interaction**
-
-Packages focused on visual design, layout, and SwiftUI behavior.
-
-|                                                                                                                 | project                                                        | what it does                                                                                  |
-| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/Aeastr/Portal/blob/main/Resources/icon/icon.png" alt="Portal" width="45">                  | **[Portal](https://github.com/Aeastr/Portal)**                 | advanced element transitions across navigation contexts, scroll-based flowing headers, and advanced view mirroring capabilities.                  |
-| <img src="https://github.com/Aeastr/Garnish/blob/main/Resources/Icons/icon.png" alt="Garnish" width="45">                | **[Garnish](https://github.com/Aeastr/Garnish)**               | intelligent color utilities for accessibility, contrast optimization, and visual harmony.     |
-| <img src="https://github.com/Aeastr/NotchMyProblem/blob/main/assets/icon.png" alt="NotchMyProblem" width="45">  | **[NotchMyProblem](https://github.com/Aeastr/NotchMyProblem)** | position UI elements around iPhone notch and dynamic island.                                  |
-| <img src="https://github.com/Aeastr/UniversalGlass/blob/main/assets/icon.png" alt="Universal Glass" width="45"> | **[UniversalGlass](https://github.com/Aeastr/UniversalGlass)** | iOS 26 glass APIs on earlier deployments. shims for iOS 18+, defers to native when available. |
-
----
-
-## 🧩 **System & Framework Utilities**
-
-Packages that extend or refine platform-level behavior and APIs.
-
-|                                                                                                            | project                                                    | what it does                                                            |
-| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------- |
-| <img src="https://github.com/Aeastr/Conditionals/blob/main/Resources/icon.png" alt="Conditionals" width="45"> | **[Conditionals](https://github.com/Aeastr/Conditionals)** | clean conditional modifier application based on OS availability and runtime conditions. |
-| <img src="https://github.com/Aeastr/CursorBounds/blob/main/assets/icon.png" alt="CursorBounds" width="45"> | **[CursorBounds](https://github.com/Aeastr/CursorBounds)** | precise text cursor positioning and browser context detection on macOS. |
-| <img src="https://github.com/Aeastr/AdaptiveDimensions/blob/main/Resources/icon/icon.png" alt="AdaptiveDimensions" width="45"> | **[AdaptiveDimensions](https://github.com/Aeastr/AdaptiveDimensions)** | SwiftUI modifiers that adapt layout dimensions to system text size settings |
-| <img src="https://github.com/Aeastr/SettingsKit/blob/main/Resources/icon/icon.png" alt="SettingsKit" width="45"> | **[SettingsKit](https://github.com/Aeastr/SettingsKit)** | a declarative SwiftUI package for building settings interfaces with navigation, search, and customizable styling |
-
-
-
-
----
-
-## 🧪 **Experimental & Add-ons**
-
-Creative or exploratory ideas — use with care (private APIs, unconventional behavior).
-
-|                                                                                                              | project                                                      | what it does                                             |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
-| <img src="https://github.com/Aeastr/MenuWithAView/blob/main/assets/icon.png" alt="MenuWithAView" width="45"> | **[MenuWithAView](https://github.com/Aeastr/MenuWithAView)** | add accessory views to context menus. uses private APIs. |
-
----
-
-## ⚙️ **Development & Infrastructure**
-
-Internal tooling, performance helpers, and developer experience utilities.
-
-|                                                                                                            | project                                                    | what it does                                                                      |
-| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| <img src="https://github.com/Aeastr/Loupe/blob/main/assets/icon.png" alt="RenderMeThis" width="45"> | **[Loupe](https://github.com/Aeastr/Loupe)** | SwiftUI debugging toolkit for visualizing renders, layouts, and measurements.                              |
-| <img src="https://github.com/Aeastr/Chronicle/blob/main/assets/icon.png" alt="Chronicle" width="45">     | **[Chronicle](https://github.com/Aeastr/Chronicle)**     | advanced logging wrapper for Apple's unified logging with async, structured metadata, runtime details and more. |
-
----
-
-## 🚀 other things i've built
-- **kyo** – a school planner & organizer built with swiftui. students deserve good ui too. currently tearing it down and rebuilding from scratch for 2.0—new design, more depth, less chaos.
-- **deco** – wallpaper studio for crafting unique lock screens with photos, gradients, stripes, and stickers. started as a swift student challenge project, now on the app store. won for '25.
-
-more coming soon, probably.
-
----
-
-## 🛠 what i actually do
-- build **apps, interfaces, and tools** that make interacting with tech feel effortless
-- obsess over **systems, not just visuals**
-- occasionally regret every decision that led to a complicated problem but solve it anyway
-- sometimes build something so specific that only 3 people in the world will ever need it
-
----
-
-## 🤝 open to cool things
-if you're building something interesting in swiftui, ui/ux, or spatial computing, i'm down to chat. otherwise, i'll be here, making things work.
-
-👾 built in public, shipped for fun, by aether
-
-_see you in the void._
+check pinned repos below or find me on [twitter](https://x.com/AetherAurelia) • [linkedin](https://www.linkedin.com/in/willjones24) • [discord](https://discord.gg/6NHhAvwbXV)
