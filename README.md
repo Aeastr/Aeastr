@@ -1,10 +1,11 @@
 # aether
 
-design engineer. building swiftui tools.
+design engineer working across product design, prototyping, and swift/swiftui.
 
-previously: apple maps, patina systems. currently contracting at pool.
-swift student challenge '25 winner.
+previously apple maps and patina systems. currently building independently.
 
-also built: kyo (school planner), deco (wallpaper studio, on app store)
+swift student challenge ’25 winner.
 
-check pinned repos below or find me on [twitter](https://x.com/AetherAurelia) • [linkedin](https://www.linkedin.com/in/willjones24) • [discord](https://discord.gg/6NHhAvwbXV)
+built kyo, deco, and a bunch of swiftui tools and experiments.
+
+find me on [twitter](https://x.com/AetherAurelia) • [linkedin](https://www.linkedin.com/in/aethera/) • [instagram](https://www.instagram.com/aetheraurelia/)
